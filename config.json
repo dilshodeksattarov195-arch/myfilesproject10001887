@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscncrypt",
+        "uuid": 2351202,
+        "checksum": "ep55t"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
